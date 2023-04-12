@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "ba854818f7d259f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3304b472945f1bab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 8/Weak 8 Readings.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7e4cb62f34351d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1e9c0c9bb195ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a7688ee1348afe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93997c9239bd4b31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257,
+    "collapsed": true
+  },
+  "right": {
+    "id": "861eedfaf594fe72",
+    "type": "split",
+    "children": [
+      {
+        "id": "c110e5f03643bd25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f13a94822594981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 8/Weak 8 Readings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3304b472945f1bab",
+  "lastOpenFiles": [
+    "Week 8/Review.md",
+    "Week 7/Papers.pdf",
+    "Week 7/Papers.md",
+    "Week 7/Monitoring HW.md",
+    "Week 6/Hazard Analysis and Robustness.md",
+    "Week 6/Hazard Analysis.md",
+    "Week 2/Combined.md",
+    "Week 6/Robustness.md",
+    "Week 5/Lecture & Leveson Notes.md",
+    "Week 6/Lecture Notes.md"
+  ]
+}
